@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nujabes900
+- 👋 Hi, I’m Allan
 - 👀 I’m interested in soccer, video games, DnD, and many more
 - 🌱 I’m currently learning SQL, Tableau, and R to become a data analyst
 - 💞️ I’m looking to collaborate on projects for portfolios, to learn and grow in data analysis
